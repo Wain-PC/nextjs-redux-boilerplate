@@ -14,3 +14,5 @@ A small boilerplate to bootstrap Next.js app development with Redux state manage
  - Prettier
  
 No more hassle configuring your environment for hours. Just clone and start hacking right away.
+
+[Same boilerplate with Material UI](https://github.com/Wain-PC/nextjs-redux-materialui-boilerplate)
